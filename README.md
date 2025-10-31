@@ -4,12 +4,12 @@
 使用了JWT进行身份验证，".env"文件内调整jwt密钥与运行端口  public目录下可放置静态站点文件
 
 
-### 安装依赖
+### 安装依赖 （Project setup）
 ```
 npm install
 ```
 
-### 运行服务端
+### 运行服务端 （Run servers）
 ```
 node server.js
 ```
